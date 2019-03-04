@@ -1,0 +1,21 @@
+{
+    "name": "kana",
+    "version": "0.0.1",
+    "description": "KANA Display for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "kana.ts",
+        "shims.d.ts",
+        "kanas.cpp",
+        "_locales/ja/kana-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

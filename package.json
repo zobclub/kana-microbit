@@ -1,0 +1,14 @@
+{
+  "name": "kana-microbit",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "pxt": "0.19.16",
+    "pxt-microbit": "0.14.54"
+  },
+  "scripts": {
+    "pxt:init": "pxt target microbit",
+    "pxt:install": "pxt install",
+    "test": "pxt test"
+  }
+}
